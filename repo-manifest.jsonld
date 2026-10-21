@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/astropy/astropy-project/commit/e5a10e691e2ee9fb97b48288d9cb9aade35cc643",
       "git:hexsha": "e5a10e691e2ee9fb97b48288d9cb9aade35cc643",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T20:31:18.219412+00:00"
     }
   ]
 }
